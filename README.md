@@ -46,13 +46,6 @@ Red Title Addon allows you to add custom red text next to your post or page titl
 
 ---
 
-## Screenshots
-
-1. Meta box for Red Title in admin panel.  
-2. Red text appearing next to the post title on the frontend.  
-
----
-
 ## Customization
 
 - Modify the CSS in the `add_css()` function to adjust color, font, size, spacing, or other styles.  
