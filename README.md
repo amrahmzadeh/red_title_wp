@@ -1,3 +1,5 @@
+![Logo](image.png)
+
 # Red Title Addon for WordPress
 
 **Plugin Name:** Red Title Addon for WordPress  
